@@ -1,2 +1,2 @@
-# leolovecalculator
-Leonardo Dicaprio Love Calculator
+# Love-Calculator
+Love Calculator with html css and javascript
